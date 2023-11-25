@@ -1,47 +1,52 @@
-## Getting Started
+TWINACTIVはリアルカートそのDigital Twinによるリアル＆バーチャルのシームレスなCar Life統合プラットフォームです。
+#デモ動画
+https://youtu.be/jwEoIjo5ZPc
 
-Create a project using this example:
+#デモページ
+https://mazda5.bubbleapps.io/
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
+機能概要や使い方はakindoページもご覧ください。
+https://app.akindo.io/communities/1PlpWpNOlFnEZ3Rd/products/nPOjE40JdS0JEJj74
 
-You can start editing the page by modifying `contracts/Contract.sol`.
+#開発構成
+フロントエンドをBubble、
+バックエンドをBubbleとBubble Bunzz SDK
+Contractはthirdweb
+を活用し、ローコードで作成しています。
 
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
+#Chain
+Astar zkatana
 
-## Building the project
+#スマートコントラクト
 
-After any changes to the contract, run:
+JIMBA-ITTAI TOKEN
+https://thirdweb.com/zkatana/0x45B2242E54Dae439B080D459C1f1E9290E061E34/sources
 
-```bash
-npm run build
-# or
-yarn build
-```
+TWINACTIV
+https://thirdweb.com/zkatana/0xb917C032355B032d34A1aEaa01aC954086771daD/sources
 
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) detected on your contract.
+Electricity
+https://thirdweb.com/zkatana/0xaD0A12deE3760176f226CBEb95D197857bd43B71
 
-## Deploying Contracts
+Sustainable Kinetic Yield
+https://thirdweb.com/zkatana/0xC24B9BcE989a8bD00170593707cC0f7A21F4fCa9
 
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
+ROYAL TICKET（Special Event Invitation）
+https://thirdweb.com/zkatana/0x035376F220AE366dd72dcF432146BeF63bD0B02A
 
-```bash
-npm run deploy
-# or
-yarn deploy
-```
+KODO
+https://thirdweb.com/zkatana/0x821B9e0174dC61cd51320B5A05Cc1852753149b8/sources
 
-## Releasing Contracts
+TWIN ACTIVATE KEY
+https://thirdweb.com/zkatana/0x1328a630264f46fC524daDaDa0201032D19E0C95/sources
 
-If you want to release a version of your contracts publicly, you can use one of the followings command:
+Marketplace（フロントエンド未実装）
+https://thirdweb.com/zkatana/0xC003bdE20c2EaD7b7902437044410f5Fe905c258/sources
 
-```bash
-npm run release
-# or
-yarn release
-```
+#github構成ファイル
+機能はBubbleとThirdwebで開発されているので、特段見てもらうファイルは無いのですが、
+ThirdwebのContractはからでは対応できない機能を当初構想していたので、
+その構想を実現しようとした残骸ファイルが残っています。
+コンパイルでエラーが続出し、断念しました。
 
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+よろしくお願いいたします。
