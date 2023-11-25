@@ -1,4 +1,7 @@
-TWINACTIVはリアルカートそのDigital Twinによるリアル＆バーチャルのシームレスなCar Life統合プラットフォームです。
+TWINACTIVはリアルカーと、
+そのDigital Twinによるリアル＆バーチャルの
+シームレスなCar Life統合プラットフォームです。
+
 #デモ動画
 https://youtu.be/jwEoIjo5ZPc
 
