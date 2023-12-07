@@ -40,11 +40,11 @@ c) 機能説明
      ┗ Supply Items や Garage 用 NFT が獲得できる Mission の一覧。  
         Real/Virtual World の 2 つのカテゴリーに分かれている。  
         （Real World の例）  
-        〇〇市のドライブコースに行くと、Electricity を入手  
-        スーパー耐久の観戦に行くと、サステオ（一時的に Earn 率 UP）を入手  
+        　◆〇〇市のドライブコースに行くと、Electricity を入手  
+        　◆スーパー耐久の観戦に行くと、サステオ（一時的に Earn 率 UP）を入手  
         （Virtual World の例）  
-        爆創クラブをプレイすると Garage の内装を変化させるカスタム NFT を入手  
-        SPIRIT RACING GT CUP の全国大会をライブ視聴すると限定スキン入手  
+        　◆爆創クラブをプレイすると Garage の内装を変化させるカスタム NFT を入手  
+        　◆SPIRIT RACING GT CUP の全国大会をライブ視聴すると限定スキン入手  
    
    ・Official Tickets Sale  
      ┗ 貯めた JIMBA-ITTAI トークンと Royal Ticket を引き換える。  
