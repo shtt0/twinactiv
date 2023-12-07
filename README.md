@@ -3,7 +3,7 @@ a）TWINACTIV 概要資料
 
 b）構造
 1- twinactiv-portal: ユーザのメインインターフェイス  
-   DEMO:
+   DEMO: [https://twinactiv.vercel.app/](https://twinactiv.vercel.app/)
 
 2- twinactiv-marketplace: ユーザ間の NFT Items2 次流通用  
    DEMO: [https://twinactiv-marketplace.vercel.app/](https://twinactiv-marketplace.vercel.app/)
