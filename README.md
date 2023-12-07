@@ -50,6 +50,17 @@ c) 機能説明
    ・Go to Marketplace  
      ┗ NFT Items の 2 次流通が可能な Marketplace へのリンク。
 
+
+2- twinactiv-marketplace
+※marketplaceはこちらのレポをご覧ください。
+ [https://github.com/shtt0/twinactiv-marketplace](https://github.com/shtt0/twinactiv-marketplace)
+
+
+・NFT ItemsのBuy/Sell機能。
+BUY=Missionクリアが難しい、面倒なユーザはMarketplaceでNFT Itemsを手っ取り早く入手し、JI Tokenを獲得できます。
+Sell=逆に、Missionを沢山達成したユーザはMarketplaceでNFT Itemsを販売することで、Earnが可能です。
+
+
 d) コントラクト関連  
    Thirweb でデプロイしています。  
    Token(ERC20): 0x45B2242E54Dae439B080D459C1f1E9290E061E34  
