@@ -54,11 +54,16 @@ c) 機能説明
 2- twinactiv-marketplace
 ※marketplaceはこちらのレポをご覧ください。　
 
+
  [https://github.com/shtt0/twinactiv-marketplace](https://github.com/shtt0/twinactiv-marketplace)
 
 
-・NFT ItemsのBuy/Sell機能。　　
-BUY=Missionクリアが難しい、面倒なユーザはMarketplaceでNFT Itemsを手っ取り早く入手し、JI Tokenを獲得できます。　　
+・NFT ItemsのBuy/Sell機能。
+
+
+BUY=Missionクリアが難しい、面倒なユーザはMarketplaceでNFT Itemsを手っ取り早く入手し、JI Tokenを獲得できます。
+
+
 Sell=逆に、Missionを沢山達成したユーザはMarketplaceでNFT Itemsを販売することで、Earnが可能です。　　
 
 
