@@ -1,12 +1,12 @@
 a）TWINACTIV 概要資料
-https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 b）構造
-1- twinactiv-potal: ユーザのメインインターフェイス
-   DEMO:
+1- twinactiv-portal: ユーザのメインインターフェイス
+   DEMO:[https://twinactiv.vercel.app/](https://twinactiv.vercel.app/)
 
 2- twinactiv-marketplace: ユーザ間の NFT Items2 次流通用
-   DEMO: https://twinactiv-marketplace.vercel.app/
+   DEMO: [https://twinactiv-marketplace.vercel.app/](https://twinactiv-marketplace.vercel.app/)
 
 の 2 つのサイトに分かれています。
 
