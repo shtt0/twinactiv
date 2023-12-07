@@ -1,4 +1,5 @@
 a）TWINACTIV 概要資料
+https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 b）構造
 1- twinactiv-potal:ユーザのメインインターフェイス
