@@ -36,7 +36,7 @@ const MissionGallery = () => {
 
   return (
     <div className={styles.galleryContainer}>
-      <h1 className="gradient-text-2">リアル＆メタバースのMission情報</h1>
+      <h1 className="gradient-text-1">リアル＆メタバースのMission情報</h1>
       <div className={styles.tabs}>
         <button
           className={`${styles.tab} ${
