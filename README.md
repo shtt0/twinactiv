@@ -1,77 +1,68 @@
-a）TWINACTIV 概要資料
+(a) TWINACTIV Overview Document
 
-[https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[https://www.canva.com/design/DAF2AC1hluc/gfTrsLX0hiWG8wxYcQNWkg/edit?utm_content=DAF2AC1hluc&utm_campaign=designshare&utm_medium= link2&utm_source=sharebutton](https://www.canva.com/design/DAF_cS7aGtU/q4TP95fJDe-CZ8uI3HOqVg/edit?utm_content=DAF_cS7aGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-b）構造
+b) Structure
 
-1- twinactiv-portal: ユーザのメインインターフェイス  
-   DEMO: [https://twinactiv.vercel.app/](https://twinactiv.vercel.app/)
+1- twinactiv-portal: user's main interface
+DEMO: https://twinactiv.vercel.app/
 
-2- twinactiv-marketplace: ユーザ間の NFT Items2 次流通用  
-   DEMO: [https://twinactiv-marketplace.vercel.app/](https://twinactiv-marketplace.vercel.app/)
+2- twinactiv-marketplace: secondary distribution of NFT Items between users
+DEMO: https://twinactiv-marketplace.vercel.app/
 
-の 2 つのサイトに分かれています。
+The site is divided into two sites: 1- twinactiv-portal: the main interface for users
 
-c) 機能説明
+c) Functional description
 
 1- twinactiv-portal
 
-   ・My Garage  
-     ┗ Digital Twin Car や所有するカスタマイズ NFT（スキンや Garage 用の装飾アイテム）が
-        統合表示されるインターフェイス  
-        ※適切なパートナーを見つけて開発想定（詳細はプレゼンにて）で、現在はダミー画像。  
-        ※Digital Twin Car は SBT。  
-           車を所有している期間のみトークン Earn できるようにしたいが、  
-           新車購入後、下取りに出した後のケース  
-           （メーカー/ディーラー側からは把握できないので）  
-           などの対応を今後要検討。  
- 
-   ・トークン情報  
-     ┗ JIMBA-ITTAI TOKEN の Balance/ClaimableReward/Cliam  
-        ※Electricity の Burn&Token Mint は初期開発では割愛。  
-        ※JIMBA-ITTAI TOKEN は Swap、Transfer 不可なので、  
-           直接的な換金性なし。  
-   
-   ・所有 NFT Items の表示  
-     ┗ トークン Earn のゲーミフィケーションを有利に進めるための Supply Items。  
-        カーライフにまつわる Real/Virtual の特別体験が可能な Royal Ticket。  
-   
-   ・Mission 情報  
-     ┗ Supply Items や Garage 用 NFT が獲得できる Mission の一覧。  
-        Real/Virtual World の 2 つのカテゴリーに分かれている。  
-        （Real World の例）  
-        　◆〇〇市のドライブコースに行くと、Electricity を入手  
-        　◆スーパー耐久の観戦に行くと、サステオ（一時的に Earn 率 UP）を入手  
-        （Virtual World の例）  
-        　◆爆創クラブをプレイすると Garage の内装を変化させるカスタム NFT を入手  
-        　◆SPIRIT RACING GT CUP の全国大会をライブ視聴すると限定スキン入手  
-   
-   ・Official Tickets Sale  
-     ┗ 貯めた JIMBA-ITTAI トークンと Royal Ticket を引き換える。  
-   
-   ・Go to Marketplace  
-     ┗ NFT Items の 2 次流通が可能な Marketplace へのリンク。
+My Garage
+My Garage is an interface that integrates and displays the Digital Twin Car and the customized NFTs (skins and decorative items for the Garage) that you own.
+*A dummy image for now, to be developed by finding an appropriate partner (details to be presented in the presentation).
+Digital Twin Car is SBT.
+We would like to enable token earning only during the period when the car is owned,
+After purchasing a new car and after trading it in.
+(since the manufacturer/dealer cannot know the status of the token).
+We will consider how to handle cases such as after purchasing a new car and trading it in (since the manufacturer/dealer cannot know the details).
 
+Token information
+kuritsu: JIMBA-ITTAI TOKEN's Balance/ClaimableReward/Cliam
+Burn & Token Mint of Electricity is omitted in the initial development.
+JIMBA-ITTAI TOKEN cannot be swapped or transferred,
+JIMBA-ITTAI TOKEN cannot be swapped or transferred, so it has no direct redeemability.
 
-2- twinactiv-marketplace
-※marketplaceはこちらのレポをご覧ください。　
+Display of NFT Items
+Supply Items to take advantage of the gamification of the token Earn.
+Royal Ticket, a special Real/Virtual experience related to car life.
 
+Mission Information
+A list of missions in which Supply Items and NFTs for the Garage can be obtained.
+It is divided into two categories: Real/Virtual World.
+(Example of Real World)
+　Go to the driving course in 00 City to get Electricity.
+　Susteo (temporary increase in Earn rate) is obtained by going to the Super Taikyu race.
+(Virtual World example)
+　Get a custom NFT to change the interior of Garage by playing Bakusou Club.
+　Get a limited skin when you watch the SPIRIT RACING GT CUP National Championship live.
 
- [https://github.com/shtt0/twinactiv-marketplace](https://github.com/shtt0/twinactiv-marketplace)
+Official Tickets Sale
+kittori: Redeem your JIMBA-ITTAI tokens for a Royal Ticket.
 
+Go to Marketplace
+korei: A link to the Marketplace, where secondary distribution of NFT Items is possible.
 
-・NFT ItemsのBuy/Sell機能。
+2- twinactiv-marketplace *Please refer to this report for the marketplace.　
 
+https://github.com/shtt0/twinactiv-marketplace
 
-BUY=Missionクリアが難しい、面倒なユーザはMarketplaceでNFT Itemsを手っ取り早く入手し、JI Tokenを獲得できます。
+Buy/Sell function for NFT Items.
 
+Buy=Users who find it difficult or troublesome to clear missions can use Marketplace to quickly obtain NFT Items and earn JI Token.
 
-Sell=逆に、Missionを沢山達成したユーザはMarketplaceでNFT Itemsを販売することで、Earnが可能です。　　
+Sell=On the contrary, users who have completed many missions can Earn by selling NFT Items in the Marketplace.　　
 
-
-d) コントラクト関連  
-   Thirweb でデプロイしています。  
-   Token(ERC20): 0x45B2242E54Dae439B080D459C1f1E9290E061E34  
-   Digital Twin Car(ERC721): 0xb917C032355B032d34A1aEaa01aC954086771daD  
-   StakingERC721: 0xC24B9BcE989a8bD00170593707cC0f7A21F4fCa9  
-   MarketPlaceRule: 0xC003bdE20c2EaD7b7902437044410f5Fe905c258  
+d) Contracts (Former ver on Astar zkEVM network / to be updated)
+Token(ERC20): 0x45B2242E54Dae439B080D459C1f1E9290E061E34
+Digital Twin Car(ERC721): 0xb917C032355B032d34A1aEaa01aC954086771daD
+StakingERC721: 0xC24B9BcE989a8bD00170593707cC0f7A21F4fCa9
+MarketPlaceRule: 0xC003bdE20c2EaD7b7902437044410f5Fe905c258
